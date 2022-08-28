@@ -1,0 +1,38 @@
+h1{
+  color: goldenrod;
+   }
+body{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: green;
+  text-align: center;
+  font-weight: bold;
+  
+  
+}
+p{
+  color: white;
+}
+.me{
+  font-style: italic;
+}
+.startgame_btn{
+  background-color: goldenrod;
+  color: green;
+  width:150px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 7px;
+  font-weight: 900;
+  border: none;
+}
+.newcard_btn{
+  background-color: goldenrod;
+  color: green;
+  width:150px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 7px;
+  font-weight: 900;
+  border: none;
+  margin-top: 7px;
+}
